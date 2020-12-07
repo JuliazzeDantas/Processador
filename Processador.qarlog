@@ -1,0 +1,39 @@
+Quartus Prime Archive log --	C:/ECOMP/PROCESSADOR/LabAOC/Processador.qarlog
+
+Archive:	C:/ECOMP/PROCESSADOR/LabAOC/Processador.qar
+Date:		Thu Oct 22 22:55:33 2020
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ECOMP/PROCESSADOR/LabAOC/BancoDeRegistradores.v
+C:/ECOMP/PROCESSADOR/LabAOC/BancoDeRegistradores.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/ConversorBCD.v
+C:/ECOMP/PROCESSADOR/LabAOC/DivisorDeFrequencia.v
+C:/ECOMP/PROCESSADOR/LabAOC/Jumper.v
+C:/ECOMP/PROCESSADOR/LabAOC/Jumper.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/MemData.v
+C:/ECOMP/PROCESSADOR/LabAOC/Memoria.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/PC.v
+C:/ECOMP/PROCESSADOR/LabAOC/PC_AtualizacaoPC.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/Pilha.v
+C:/ECOMP/PROCESSADOR/LabAOC/Pilha.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/Processador.qpf
+C:/ECOMP/PROCESSADOR/LabAOC/Processador.qsf
+C:/ECOMP/PROCESSADOR/LabAOC/Processador.v
+C:/ECOMP/PROCESSADOR/LabAOC/Processador.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/ProcessadorCompleto.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/Register.v
+C:/ECOMP/PROCESSADOR/LabAOC/Register.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/Temporizador.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/TesteFinal.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/ULA.v
+C:/ECOMP/PROCESSADOR/LabAOC/ULA.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/UnidadeControle.v
+C:/ECOMP/PROCESSADOR/LabAOC/UnidadeControle.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/Waveform.vwf
+C:/ECOMP/PROCESSADOR/LabAOC/simple_dual_port_ram_single_clock.v
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 28 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
